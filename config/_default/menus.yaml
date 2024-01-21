@@ -13,3 +13,6 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: Hobby
+    url: https://people.csail.mit.edu/liyifei/
+    weight: 40
