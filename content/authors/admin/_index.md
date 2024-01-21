@@ -3,7 +3,7 @@
 title: Haonan Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Haonan Zhang
+name_pronunciation: Sha Bi
 
 # Full name (for SEO)
 first_name: Haonan
