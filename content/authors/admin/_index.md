@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Haonan Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Haonan Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Haonan
+last_name: Zhang
 
 # Status emoji
 status:
