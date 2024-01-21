@@ -7,7 +7,7 @@ name_pronunciation: Haonan Zhang
 
 # Full name (for SEO)
 first_name: Haonan
-last_name: Zhang
+last_name: 
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a master student at Johns Hopkins University. My current research interests are physics-based simulation, 3d computer vision and geometry processing.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master student at Johns Hopkins University. My current research interests are physics-based simulation, 3d computer vision and geometry processing.
