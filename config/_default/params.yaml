@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: red
 
 # SEO
 marketing:
@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Haonan Zhang| 张浩楠'
     license:
       enable: true
       allow_derivatives: false
